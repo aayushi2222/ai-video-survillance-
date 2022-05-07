@@ -1,0 +1,35 @@
+.heading{
+font-size: larger;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+margin: 0px;
+width: 100%;
+
+}
+
+body{
+    background-size: cover;
+}
+
+.button,number_of_objects_detected,status{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+canvas{
+    box-shadow: 5px,5px,5px,whitesmoke;
+    border:10px;
+    border-radius: 10px;
+    margin-top: 130px;
+}
+
+.copy_right_footer{
+    position:fixed;
+    color:white;
+   bottom:0px;
+    width:100%;
+    background-color: orange;
+    text-align:center;
+    line-height:2;
+
+}
